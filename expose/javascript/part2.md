@@ -92,7 +92,7 @@
 
 19. What is the output of the above code? (This should be in your **part2.md**)
 
-    **Ans: The output is 1 4 3 2, with each number in one line. 1 appears first since line2 executes first and 1 is logged directly; 4 appears second since the code executes synchronously as line 2 while line3 and 4 is setting the timer; 3 appears the third since the delay is only 0; and 2 appears last since the delay is 1 second. **
+    **Ans: The output is 1 4 3 2, with each number in one line. 1 appears first since line2 executes first and 1 is logged directly; 4 appears second since the code executes synchronously as line 2 while line3 and 4 is setting the timer; 3 appears the third since the delay is only 0; and 2 appears last since the delay is 1 second.**
 
     
 
